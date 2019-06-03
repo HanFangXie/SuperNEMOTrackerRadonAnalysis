@@ -1,3 +1,7 @@
+// for 1e1alpha study; combined Bi214 sample from source bulk, source surf, and tracker wire surf; simulated data from falaise3.3.0
+// use Cheryl's sensitivity module to generate ntuples; tracker selection -> reconstucted vertex off foil; focusing on Rn222 (or Bi214); normalisation fit; 
+// by F. Xie, L. Dawson @ UCL HEP and A. Minotti @ LAPP
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sstream>
